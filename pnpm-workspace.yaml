@@ -2,6 +2,7 @@ packages:
   - 'packages/**'
   - 'integrations/**'
   - 'dashboard'
+  - 'frontend'
   - 'docs'
   - '!**/test/**'
   - 'examples/**'
